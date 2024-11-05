@@ -46,4 +46,3 @@ The Tic-Tac-Toe game features:
 4. If all cells are filled without a winner, the game ends in a draw.
 5. Click "Restart" to play again.
 
-## 📂 Project Structure
