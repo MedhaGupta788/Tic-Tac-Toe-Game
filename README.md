@@ -23,19 +23,20 @@ The Tic-Tac-Toe game features:
 ## 📸 Screenshots
 
 **Start Screen**  
-![Start Screen](./screenshots/start-screen.png)  
+![Start Screen](./screenshots/Screenshot%20(213).png)  
 *Game ready for player input.*
 
 **Gameplay**  
-![Gameplay](./screenshots/gameplay.png)  
+![Gameplay](./screenshots/Screenshot%20(223).png)  
 *Players X and O taking turns.*
 
 **Win Screen**  
-![Win Screen](./screenshots/win-screen.png)  
-*Displays the winner and highlights the winning row.*
+![Win Screen](./screenshots/Screenshot%20(212).png)  
+![Win Screen](./screenshots/Screenshot%20(215).png)
+*Displays the winner.*
 
 **Draw Screen**  
-![Draw Screen](./screenshots/draw-screen.png)  
+![Draw Screen](./screenshots/Screenshot%20(214).png)  
 *Indicates a draw if the board is filled with no winner.*
 
 ## 🚀 How to Play
